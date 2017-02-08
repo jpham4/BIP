@@ -7,10 +7,19 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
+
   <head>
+
     <title>BIP</title>
+
   </head>
+
   <body>
-  Hello World!
+
+  <script src="front_end_work.js">
+
+  </script>
+
   </body>
+
 </html>
