@@ -10,13 +10,17 @@
 
   <head>
 
+    <script type="text/javascript">
+
+    </script>
+
     <title>BIP</title>
 
   </head>
 
   <body>
 
-  <script src="front_end_work.js">
+  <script src="front_end_work.html">
 
   </script>
 

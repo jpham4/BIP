@@ -10,6 +10,10 @@
 
   <head>
 
+    <script type="text/javascript">
+
+    </script>
+
     <title>BIP</title>
 
   </head>
