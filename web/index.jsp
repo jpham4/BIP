@@ -10,15 +10,31 @@
 
   <head>
 
-    <script type="text/javascript">
+      <link rel="stylesheet" type="text/css" href="styles.css">
 
-    </script>
-
-    <title>BIP</title>
+      <title>BIP</title>
 
   </head>
 
   <body>
+
+    <header>
+
+        <div>
+
+            <ul>
+
+                <li><a href="#">Home</a></li>
+
+                <li><a href="#">Login</a></li>
+
+                <li><a href="#">Sign Up</a></li>
+
+            </ul>
+
+        </div>
+
+    </header>
 
   </body>
 
