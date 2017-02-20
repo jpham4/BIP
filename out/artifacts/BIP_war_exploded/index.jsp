@@ -26,21 +26,25 @@
 
     <header>
 
-        <div class="row">
+        <div class="container">
 
-            <ul>
+            <div class="main-nav">
 
-                <div class="links-home">
+                <div style="float: left">
 
-                    <li><a href="#">Home</a></li>
-
-                    <li><a href="#">Login</a></li>
-
-                    <li><a href="#">Sign Up</a></li>
+                    <a class="btn btn-ghost" href="#">Home</a>
 
                 </div>
 
-            </ul>
+                <div style="float: right">
+
+                    <a class="btn btn-ghost" href="#">Login</a>
+
+                    <a class="btn btn-ghost" href="#">Sign Up</a>
+
+                </div>
+
+            </div>
 
         </div>
 
