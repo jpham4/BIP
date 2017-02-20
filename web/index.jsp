@@ -12,6 +12,12 @@
 
       <link rel="stylesheet" type="text/css" href="styles.css">
 
+      <link rel="stylesheet" type="text/css" href="normalize.css">
+
+      <link rel="stylesheet" type="text/css" href="grid.css">
+
+      <link rel="stylesheet" type="text/css" href="ionicons.min.css">
+
       <title>BIP</title>
 
   </head>
@@ -20,15 +26,19 @@
 
     <header>
 
-        <div>
+        <div class="row">
 
             <ul>
 
-                <li><a href="#">Home</a></li>
+                <div class="links-home">
 
-                <li><a href="#">Login</a></li>
+                    <li><a href="#">Home</a></li>
 
-                <li><a href="#">Sign Up</a></li>
+                    <li><a href="#">Login</a></li>
+
+                    <li><a href="#">Sign Up</a></li>
+
+                </div>
 
             </ul>
 
