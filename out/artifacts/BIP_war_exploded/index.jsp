@@ -44,14 +44,12 @@
 
                 </div>
 
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1"></iframe>
-
             </div>
 
         </div>
 
     </header>
-
+  
   </body>
 
 </html>
