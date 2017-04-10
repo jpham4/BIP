@@ -1,4 +1,4 @@
-.container {
+body, html {
     width: 1140px;
     margin: 20px auto 0 auto;
 }
@@ -7,26 +7,6 @@
     list-style: none;
     margin-top: 25px;
 }
-
-/*
-.main-nav:link,
-.main-nav:visited {
-    padding: 8px 0;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 90%;
-    border-bottom: 2px solid transparent;
-    -webkit-transition: border-bottom 0.2s;
-    transition: border-bottom 0.2s;
-}
-
-.main-nav:hover,
-.main-nav:active {
-    border-bottom: 2px solid #00b300;
-}
-*/
-
 
 .btn:link,
 .btn:visited,
@@ -51,13 +31,21 @@ iframe {
     margin: auto;
     margin-top: 100px;
     margin-bottom: 50px;
+    margin-left: 20%;
 }
 
-#john_oliver_intro {
-    margin-top: 50px;
+.middle {
+    width: 50%;
+    float: left;
+    margin-left: 15%;
 }
 
-#main-video {
-    margin: 0 auto;
-    display: block;
+.left-page {
+    width: 25%;
+    float: left;
+}
+
+.right-page {
+    width: 25%;
+    float: right;
 }

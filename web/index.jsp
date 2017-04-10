@@ -27,7 +27,8 @@
     <header>
 
         <nav>
-            <div class="container">
+
+            <div>
 
                 <div class="main-nav">
 
@@ -55,11 +56,36 @@
 
     <section class="main-page">
 
-        <div id="john_oliver_intro">
+        <div class="middle">
 
             <iframe id="main-video"
-                    width="560" height="315" src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
+                    width="350" height="165" src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
             </iframe>
+
+        </div>
+
+        <div class="right-page">
+
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
+                neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
+                dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
+                Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
+                Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
+                nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
+                nisi, at rhoncus nisl.
+            </p>
+
+        </div>
+
+        <div class="left-page">
+
+            <p>
+                Phasellus ac venenatis orci. Donec ut porttitor felis. Etiam sodales nisl ac lorem aliquet placerat.
+                Pellentesque non sem sollicitudin, auctor lorem vitae, laoreet metus. Curabitur vel magna eu elit
+                suscipit finibus quis nec justo. Ut a massa eu risus tempus pellentesque eget ac arcu. Duis lacus
+                lorem, vulputate ut nisl eget, aliquet ultricies ipsum.
+            </p>
 
         </div>
 
