@@ -30,19 +30,18 @@ iframe {
     display: block;
     margin: auto;
     margin-top: 100px;
-    margin-bottom: 50px;
-    margin-left: 20%;
 }
 
 .middle {
     width: 50%;
     float: left;
-    margin-left: 15%;
+    margin-left: 13%;
 }
 
 .left-page {
     width: 25%;
     float: left;
+    margin-top: 120px;
 }
 
 .right-page {

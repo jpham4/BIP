@@ -59,12 +59,12 @@
         <div class="middle">
 
             <iframe id="main-video"
-                    width="350" height="165" src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
+                    src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
             </iframe>
 
         </div>
 
-        <div class="right-page">
+        <div class="right-page" style="float: right">
 
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
@@ -78,7 +78,7 @@
 
         </div>
 
-        <div class="left-page">
+        <div class="left-page" style="float: left;">
 
             <p>
                 Phasellus ac venenatis orci. Donec ut porttitor felis. Etiam sodales nisl ac lorem aliquet placerat.
