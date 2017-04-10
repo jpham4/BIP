@@ -96,5 +96,15 @@
 </html>
 
 <!--
+<frameset cols="25%,50%,25%">
+<frame name="left" src="/html/top_frame.htm" />
+<frame name="center" src="/html/main_frame.htm" />
+<frame name="right" src="/html/bottom_frame.htm" />
+<noframes>
+<body>
+Your browser does not support frames.
+</body>
+</noframes>
+</frameset>
 
 -->
