@@ -14,8 +14,6 @@
 
       <link rel="stylesheet" type="text/css" href="grid.css">
 
-      <link rel="stylesheet" type="text/css" href="ionicons.min.css">
-
       <link rel="stylesheet" type="text/css" href="styles.css">
 
       <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
@@ -68,17 +66,50 @@
 
                 <div class="setup-box">
 
-                    <div class="left-home-page">
+                    <br>
+
+                    <div align="center" class="left-home-page">
 
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
-                            neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
-                            dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
-                            Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
-                            Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
-                            nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
-                            nisi, at rhoncus nisl.
+                            B.I.P.
+
+                            <br>
+                            <br>
+
+                            Banking Investment Platform
                         </p>
+
+                    </div>
+
+                    <div class="col span-1-of-2 steps-box">
+
+                        <div>
+
+                            &nbsp;&nbsp;
+
+                            <a href="#">
+                                <img title="Twitter" alt="Twitter"
+                                     src="https://socialmediawidgets.files.wordpress.com/2014/03/01_twitter1.png"
+                                     width="35" height="35" />
+                            </a>
+
+                            &nbsp;&nbsp;
+
+                            <a href="#">
+                                <img title="LinkedIn" alt="LinkedIn"
+                                     src="https://socialmediawidgets.files.wordpress.com/2014/03/07_linkedin1.png"
+                                     width="35" height="35" />
+                            </a>
+
+                            &nbsp;&nbsp;
+
+                            <a href="#">
+                                <img title="Facebook" alt="Facebook"
+                                     src="https://socialmediawidgets.files.wordpress.com/2014/03/02_facebook1.png"
+                                     width="35" height="35" />
+                            </a>
+
+                        </div>
 
                     </div>
 
@@ -108,15 +139,15 @@
 
                     <div class="right-home-page">
 
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
-                            neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
-                            dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
-                            Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
-                            Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
-                            nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
-                            nisi, at rhoncus nisl.
-                        </p>
+                        <div class="first-thing-home-right">
+
+                            <br>
+
+                            <br>
+
+                            <h3 align="center">Today in the finance world</h3>
+
+                        </div>
 
                     </div>
 

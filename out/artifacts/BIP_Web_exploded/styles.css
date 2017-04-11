@@ -22,6 +22,14 @@ body, html {
     box-shadow: 0 2px 2px #efefef;
 }
 
+.ion-social-facebook,
+.ion-social-twitter,
+.ion-social-googleplus,
+.ion-social-instagram {
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+}
+
 .btn:link,
 .btn:visited,
 input[type=submit] {
@@ -47,7 +55,7 @@ iframe {
 }
 
 .right-home-page {
-
+    text-align: center;
 }
 
 .middle-main-page {
