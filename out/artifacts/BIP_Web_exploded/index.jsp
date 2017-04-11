@@ -10,13 +10,15 @@
 
   <head>
 
-      <link rel="stylesheet" type="text/css" href="styles.css">
-
       <link rel="stylesheet" type="text/css" href="normalize.css">
 
       <link rel="stylesheet" type="text/css" href="grid.css">
 
       <link rel="stylesheet" type="text/css" href="ionicons.min.css">
+
+      <link rel="stylesheet" type="text/css" href="styles.css">
+
+      <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet">
 
       <title>BIP</title>
 
@@ -54,38 +56,73 @@
 
     </header>
 
-    <section class="main-page">
+    <section class="main-nav">
 
-        <div class="middle">
-
-            <iframe id="main-video"
-                    src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
-            </iframe>
+        <div class="row">
 
         </div>
 
-        <div class="right-page" style="float: right">
+        <div class="row">
 
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
-                neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
-                dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
-                Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
-                Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
-                nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
-                nisi, at rhoncus nisl.
-            </p>
+            <div class="col span-1-of-3">
 
-        </div>
+                <div class="setup-box">
 
-        <div class="left-page" style="float: left;">
+                    <div class="left-home-page">
 
-            <p>
-                Phasellus ac venenatis orci. Donec ut porttitor felis. Etiam sodales nisl ac lorem aliquet placerat.
-                Pellentesque non sem sollicitudin, auctor lorem vitae, laoreet metus. Curabitur vel magna eu elit
-                suscipit finibus quis nec justo. Ut a massa eu risus tempus pellentesque eget ac arcu. Duis lacus
-                lorem, vulputate ut nisl eget, aliquet ultricies ipsum.
-            </p>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
+                            neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
+                            dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
+                            Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
+                            Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
+                            nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
+                            nisi, at rhoncus nisl.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col span-1-of-3">
+
+                <div class="setup-box">
+
+                    <div class="middle-main-page">
+
+                        <iframe
+                                src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
+                        </iframe>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col span-1-of-3">
+
+                <div class="setup-box">
+
+                    <div class="right-home-page">
+
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt accumsan justo, eu molestie
+                            neque fringilla at. Phasellus et sagittis enim. Morbi in accumsan ante, sit amet sodales libero. In
+                            dignissim massa eget est suscipit consequat. Vestibulum fermentum mauris nec porttitor iaculis.
+                            Vestibulum erat orci, suscipit nec purus eget, varius ullamcorper enim. Sed hendrerit porttitor dolor.
+                            Nunc a lacus eu ipsum feugiat dictum id ac quam. Morbi mattis ante non ipsum volutpat, at condimentum
+                            nulla ornare. Mauris maximus tellus a ipsum pulvinar, ut gravida augue ullamcorper. Nulla non auctor
+                            nisi, at rhoncus nisl.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
 
         </div>
 
@@ -95,16 +132,44 @@
 
 </html>
 
+
+
+    <!--
+
+    <section class="main-page">
+
+        <div class="row">
+
+            </div>
+
+            <div class="col span-1-of-3">
+
+                <p>
+                    Phasellus ac venenatis orci. Donec ut porttitor felis. Etiam sodales nisl ac lorem aliquet placerat.
+                    Pellentesque non sem sollicitudin, auctor lorem vitae, laoreet metus. Curabitur vel magna eu elit
+                    suscipit finibus quis nec justo. Ut a massa eu risus tempus pellentesque eget ac arcu. Duis lacus
+                    lorem, vulputate ut nisl eget, aliquet ultricies ipsum.
+                </p>
+
+            </div>
+
+            <div class="col span-1-of-3">
+
+                <iframe
+                        src="https://www.youtube.com/embed/gvZSpET11ZY?autoplay=1">
+                </iframe>
+
+            </div>
+
+        </div>
+
+    </section>
+
+  </body>
+
+</html>
+-->
+
 <!--
-<frameset cols="25%,50%,25%">
-<frame name="left" src="/html/top_frame.htm" />
-<frame name="center" src="/html/main_frame.htm" />
-<frame name="right" src="/html/bottom_frame.htm" />
-<noframes>
-<body>
-Your browser does not support frames.
-</body>
-</noframes>
-</frameset>
 
 -->
